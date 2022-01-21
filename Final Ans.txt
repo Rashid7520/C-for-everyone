@@ -1,5 +1,6 @@
 C for Everyone: Programming Fundamentals Final Exam (Week 6 Coursera)
 
+
 #All questions and answers are here!
 
 Q.1 - Who invented the C language?
@@ -192,4 +193,4 @@ Ans - False
 Q.41 - if p and q are pointers to double and x and y are double which of the following is legal:
 Ans - y = *q;
 
-"
+"Follow for other quizes answers"
