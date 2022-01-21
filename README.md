@@ -10,8 +10,8 @@ Other's quize and assignment answer will be uploaded soon. Kindly be connected
 
 # Follow for upcoming answers
 For any query Follow
-Linkedin - https://www.linkedin.com/in/mohammad-rashid-nazir/
-Instagram - https://www.instagram.com/bindas_rashid/
-Github - https://github.com/Rashid7520
+# Linkedin - https://www.linkedin.com/in/mohammad-rashid-nazir/
+# Instagram - https://www.instagram.com/bindas_rashid/
+# Github - https://github.com/Rashid7520
 
 # Thanks
